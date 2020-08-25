@@ -16,6 +16,9 @@ export default () => ({
     frontEnd: {
       js: ["react"],
     },
+    mobile:{
+    js:"react native",
+    },
     backEnd: {
       js: ["node", "express"],
     },
@@ -26,8 +29,11 @@ export default () => ({
   ],
   Hackatons:[
   "hacka-for-life"
-  ]
+  ],
+  CurrentProject:'especialist'
 });
 ```
+
+![Vinicius's github stats](https://github-readme-stats.vercel.app/api?username=vinicimdohs&show_icons=true&theme=radical)
 
 
