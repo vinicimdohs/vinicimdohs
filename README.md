@@ -1,16 +1,34 @@
-### Hi there 👋
+# Vinicius Fernandes de Paula 👨‍💻
 
-<!--
-**vinicimdohs/vinicimdohs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sudiptoghosh99/)](https://www.linkedin.com/in/vinicius-fernandes-6b03021ab/)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👨‍🎓 Graduando Engenharia da Computação IFTM
+
+```js
+export default () => ({
+  pronouns: "He" | "Him",
+  pubKey: "866E 3ED1 217B 85DC",
+  askMeAbout: [
+    Java Script, Futebol,
+    cerveja
+  ],
+  technologies: {
+    frontEnd: {
+      js: ["react"],
+    },
+    backEnd: {
+      js: ["node", "express"],
+    },
+    databases: ["mongo", "postgres", "mySql"]
+  },
+  memberships: [
+    "Andarilhos da Esperança",
+  ],
+  Hackatons:[
+  "hacka-for-life"
+  ]
+});
+```
+
+
