@@ -12,7 +12,7 @@ export default () => ({
   pronouns: "He" | "Him",
   askMeAbout: [
     Java Script, Futebol,
-    cerveja
+    Cerveja,Tecnologia
   ],
   technologies: {
     frontEnd: {
