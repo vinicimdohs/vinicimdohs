@@ -1,5 +1,7 @@
 # Vinicius Fernandes de Paula 👨‍💻
 
+<b>Me encontrar </b>
+
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sudiptoghosh99/)](https://www.linkedin.com/in/vinicius-fernandes-6b03021ab/)
 
 
