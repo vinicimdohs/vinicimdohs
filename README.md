@@ -32,7 +32,8 @@ export default () => ({
     "Andarilhos da Esperança",
   ],
   Hackatons:[
-  "hacka-for-life"
+  "hacka-for-life",
+  "Vacathon"
   ],
   CurrentProject:'especialist'
 });
