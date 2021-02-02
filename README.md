@@ -25,6 +25,7 @@ export default () => ({
     },
     backEnd: {
       js: ["node", "express"],
+      ts:["nest"]
     },
     databases: ["mongo", "postgres", "mySql"]
   },
