@@ -30,7 +30,7 @@ export default () => ({
     databases: ["mongo", "postgres", "mySql"]
   },
   memberships: [
-    "Andarilhos da Esperança",
+    "Grão direto",
   ],
   Hackatons:[
   "hacka-for-life",
