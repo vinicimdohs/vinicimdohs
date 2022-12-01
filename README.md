@@ -16,11 +16,10 @@ export default () => ({
   ],
   technologies: {
     frontEnd: {
-      js: ["react"],
+      js: ["Angular"],
       
     },
     mobile:{
-    js:"react native",
     dart:"flutter",
     },
     backEnd: {
