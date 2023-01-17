@@ -37,10 +37,6 @@ export default () => ({
 
 Sou Um corinthiano, apaixonado por tecnologia que quer buscar novos desafios no desenvolvimento com java script e devops
 
-![Vinicius's github stats](https://github-readme-stats.vercel.app/api?username=vinicimdohs&show_icons=true&theme=radical)
-
-
-
 <br />
 
 ### Languages and Tools:
