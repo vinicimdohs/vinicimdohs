@@ -16,11 +16,7 @@ export default () => ({
   ],
   technologies: {
     frontEnd: {
-      js: ["Angular"],
-      
-    },
-    mobile:{
-    dart:"flutter",
+      ts: ["Angular"],
     },
     backEnd: {
       js: ["node", "express"],
