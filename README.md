@@ -7,38 +7,6 @@
 
 👨‍🎓 Graduando Engenharia da Computação IFTM
 
-```js
-export default () => ({
-  pronouns: "He" | "Him",
-  askMeAbout: [
-    Java Script, Futebol,
-    Cerveja,Tecnologia
-  ],
-  technologies: {
-    frontEnd: {
-      ts: ["Angular"],
-    },
-    backEnd: {
-      js: ["node", "express"],
-      ts:["nest"]
-    },
-    databases: ["mongo", "postgres", "mySql"]
-  },
-  memberships: [
-    "Grão direto",
-  ],
-  Hackatons:[
-  "hacka-for-life",
-  "Vacathon"
-  ],
-  CurrentProject:'especialist'
-});
-```
-
-Sou Um corinthiano, apaixonado por tecnologia que quer buscar novos desafios no desenvolvimento com java script e devops
-
-<br />
-
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" 
